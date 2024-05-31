@@ -1,3 +1,3 @@
 Hello
 <br>
-My Nmae is Ankit Kumar
+My Name is Ankit Kumar
